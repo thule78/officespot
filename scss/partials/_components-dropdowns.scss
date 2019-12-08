@@ -1,5 +1,3 @@
-/*! _dropdowns.scss | Bulkit | CSS Ninja */
-
 /* ==========================================================================
 Dropdown styles
 ========================================================================== */
@@ -86,7 +84,7 @@ TABLE OF CONTENTS
             transition: background .2s ease-out;
             &:hover {
                 background: $light-grey;
-                cursor: pointer; 
+                cursor: pointer;
             }
             //icons
             i.drop-icon {

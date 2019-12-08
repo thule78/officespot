@@ -1,7 +1,5 @@
-/*! _checkboxes.scss | Bulkit | CSS Ninja */
-
 /* ==========================================================================
-Checkbox extension 
+Checkbox extension
 ========================================================================== */
 
 /***
@@ -98,7 +96,7 @@ TABLE OF CONTENTS
     &.is-primary input[type="checkbox"]:checked + label::after {
         color: $white;
     }
-    
+
     &.is-secondary input[type="checkbox"]:checked + label::before {
         background-color: $secondary;
         border-color: $secondary;
@@ -107,7 +105,7 @@ TABLE OF CONTENTS
     &.is-secondary input[type="checkbox"]:checked + label::after {
         color: $white;
     }
-    
+
     &.is-accent input[type="checkbox"]:checked + label::before {
         background-color: $accent;
         border-color: $accent;

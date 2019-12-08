@@ -1,7 +1,5 @@
-/*! _auth.scss | Bulkit | CSS Ninja */
-
 /* ==========================================================================
-Login and Sign up shared styles 
+Login and Sign up shared styles
 ========================================================================== */
 
 /***
@@ -151,7 +149,7 @@ TABLE OF CONTENTS
     &:hover {
         opacity: 0.8;
         color: $primary !important;
-    }   
+    }
     &.is-secondary {
         color: $secondary !important;
     }
@@ -177,7 +175,7 @@ TABLE OF CONTENTS
         color: $title-grey;
         font-weight: 500;
         &:hover {
-            color: $primary; 
+            color: $primary;
         }
     }
 }

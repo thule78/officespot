@@ -1,5 +1,3 @@
-/*! _buttons.scss | Bulkit | CSS Ninja */
-
 /* ==========================================================================
 Button styles
 ========================================================================== */
@@ -153,15 +151,15 @@ TABLE OF CONTENTS
     //Button sizes
     &.is-small {
         width: 36px;
-        height: 36px;  
+        height: 36px;
     }
     &.is-medium {
         width: 55px;
-        height: 55px;  
+        height: 55px;
     }
     &.is-large {
         width: 64px;
-        height: 64px;  
+        height: 64px;
     }
     //Icon sizes
     i {
@@ -227,7 +225,7 @@ TABLE OF CONTENTS
     &.btn-outlined {
         border-color: $primary;
         color: $primary;
-        background-color: transparent; 
+        background-color: transparent;
         &:hover {
             color: $white;
             background-color: $primary;
@@ -257,7 +255,7 @@ TABLE OF CONTENTS
     &.btn-outlined {
         border-color: $secondary;
         color: $secondary;
-        background-color: transparent; 
+        background-color: transparent;
         &:hover {
             color: $white;
             background-color: $secondary;

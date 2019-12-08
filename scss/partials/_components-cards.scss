@@ -1,5 +1,3 @@
-/*! _cards.scss | Bulkit | CSS Ninja */
-
 /* ==========================================================================
 Card styles
 ========================================================================== */
@@ -45,7 +43,7 @@ TABLE OF CONTENTS
     }
     //borders
     &.light-bordered {
-        border: 1px solid #e5e5e5 !important; 
+        border: 1px solid #e5e5e5 !important;
     }
     //title
     .card-title h4 {
@@ -191,19 +189,19 @@ TABLE OF CONTENTS
     &.primary-card {
         background: $primary;
         .content, .content h2 {
-            color: $white !important; 
+            color: $white !important;
         }
     }
     &.secondary-card {
         background: $secondary;
         .content, .content h2 {
-            color: $white !important; 
+            color: $white !important;
         }
     }
     &.accent-card {
         background: $accent;
         .content, .content h2 {
-            color: $white !important; 
+            color: $white !important;
         }
     }
     //card overflow
@@ -212,7 +210,7 @@ TABLE OF CONTENTS
     }
     //light border
     &.light-bordered {
-        border: 1px solid #e5e5e5 !important; 
+        border: 1px solid #e5e5e5 !important;
     }
     //box shadow options
     &.simple-shadow {
@@ -383,7 +381,7 @@ TABLE OF CONTENTS
             }
             ul li a {
                 color: $grey-white;
-            }  
+            }
             ul li.is-active a {
                 color: $white;
                 border: 1px solid $white;
