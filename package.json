@@ -2,6 +2,10 @@
     "name": "officespot_site",
     "version": "10.15.3",
     "description": "officespot_site",
+    "version": "1.0.0",
+    "engines":{
+      "node":"10.15.3"
+    },
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
