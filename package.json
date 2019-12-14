@@ -1,7 +1,7 @@
 {
     "name": "officespot_site",
-    "version": "0.0.1",
-    "description": "Bulkit Startup Kit",
+    "version": "10.15.3",
+    "description": "officespot_site",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
