@@ -9,7 +9,7 @@ var rimraf = require('rimraf').sync;
 var browser = require('browser-sync');
 var panini = require('panini');
 var concat = require('gulp-concat');
-var port = process.env.SERVER_PORT || 8080;
+var port = process.env.SERVER_PORT || 3000;
 var nodepath = 'node_modules/';
 var assetspath = 'assets/';
 
