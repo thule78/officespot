@@ -12,12 +12,7 @@ var concat = require('gulp-concat');
 var port = process.env.SERVER_PORT || 8080;
 var nodepath = 'node_modules/';
 var assetspath = 'assets/';
-var runSeq = require('run-sequence')
-//
 
-gulp.task('heroku:production', function(){
-  runSeq('clean', 'build', 'minify')
-})//
 // Starts a BrowerSync instance
 gulp.task('server', ['build'], function () {
     browser.init({ server: './_site', port: port });

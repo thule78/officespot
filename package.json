@@ -1,11 +1,7 @@
 {
     "name": "officespot_site",
     "version": "10.15.3",
-    "description": "officespot_site",
-    "version": "1.0.0",
-    "engines":{
-      "node":"10.15.3"
-    },
+    "description": "Office_site",
     "main": "Gruntfile.js",
     "devDependencies": {
         "autoprefixer": "^6.3.6",
@@ -45,7 +41,6 @@
         "jquery.counterup": "^2.1.0",
         "scrollreveal": "^3.4.0",
         "slick-carousel": "^1.8.1",
-        "gulp": "^3.9.1",
         "wallop": "^2.4.1"
     }
 }
