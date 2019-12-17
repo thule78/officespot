@@ -18,7 +18,8 @@
         "rimraf": "^2.5.2"
     },
     "engines": {
-        "node": "12.13.0"
+        "node": "10.15.3",
+        "npm": "6.9.0"
     },
     "scripts": {
         "start": "gulp",
